@@ -1,0 +1,26 @@
+Business Insight:
+B city has more male and female customers followed bt C and A
+More unmarried male buyers are found than females
+Highest selling product us P00265242 with 23% Sales
+People living in the city for 1 year is buying more
+Top Buying customer is 1004277 with purchase value:10536909
+Least Buying customer is 1004464 with purchase value:46681
+Nearly 78% of customers belong to age group 18-45
+Male buyers spends more than female buyers
+Highest revenue comes from product category 5,1,8 respectively
+With 90%, 95% and even 99% of confidence level, we can see that Male buyers spend significantly more money than the Female Buyers, since there is no overlap between confidence interval.
+Though unmarried customers are higher than married customers,from confidence interval there is no significant difference and hence couldnt infer much
+With 90,95,99% confidence,we can say that average spending of male is more than female
+With 90,95,99% confidence,we can say that age group 0-17 spends the less amount compartively than other age groups
+With 90,95,99% confidence,we can say that age group 51-55 purchase more compartively than other age groups
+
+Recommendations:
+Walmart should spend more on marketing on City A and C.
+Walmart should collaborate with celebrities to promote male products as we have more male buyers  and proper strategy should be deployed on increasing sale interest of female products.
+Walmart have less number of long term customers(4+ years) preferably less than 14% ,it might be because of new store coming in that area .However,Some discounts/offers should be provided to retain long term customers
+Though City B has high customers,still there should be some citywise campaign should be posted to boost the sales
+Walmart should invest in targeted advertisements for individual buyers aged between 0-17,51-55,55+
+
+
+
+Colab Link:https://colab.research.google.com/drive/1-ZaG5YQ7rALXCpCTRHxa-mnjFSR1oOhP?usp=sharing
