@@ -1,0 +1,26 @@
+Insights:
+1.The data date starts from 1-1-2011 to 19-12-2012
+2.15-9-2012(8714) has the highest number of rented bikes whereas (6-3-2011) has the least number of rented bikes(605)
+3.Highest booking is in the month of July
+4.Almost same booking for the month of may,july,august,september,octomber and gradually decreasing for the rest of the month.
+5.The count is less during the cold months (November, December, January and February), where due to cold people prefer not to ride cycle
+6.As we can see from the monthwise bar plot, the demand for the bikes at the starting of the month is quite low as compared to the months from march 2012 onwards. There's a drop in the middle owing to cold and winter season
+7.However,The bike sales is better during months August,September next to July in the Fall season with the  Clear, Few clouds, partly cloudy, partly cloudy weather
+8.There are outliers in the windspeed which tells us that, the windspeed is not uniform
+9.When weather is good (Clear, Few clouds, partly cloudy, partly cloudy) people tend to rent more bikes
+10.Count of renting the bikes on working day is much higher than non-working day
+11.The Registered users has higher correlation as compared to the casual user count while renting which implies that customers are satisfactory with the product
+12.When its holiday, user count is considerably low but when its working day user count is moderately high.
+13.From the hypothesis testing,it is inferred that weather and season are depending on each other(chi-square test).
+14.From the anova testing,number of rented cycle is affected by weather and season
+15.From t-test,working and non-working day doesnt impact make significant impact in renting bikes.
+
+Recommendation:
+Major factors affecting the count of bikes rented are season and weather.
+working and non working days can't be considered as a significant factor in predicting rental bikes.
+The Rental is low comparetively in winter and spring respectively which indicates that people dont prefer bikes during those whether.
+Hence more focus should be given on offering other products such as e-cars during winter and heavy rain which can be a comfortable means for travelling in cold.
+Offers needs to be introduced on introducing hourly/daily rental plans to boost the movement of rental bikes during Nov,Dec,jan,Feb months.
+Focus should be given on endorsing the rental bikes which would help in conversion of casual users to registered users and discounts should be given for registered users which would help in retaining them ,thereby boosting the rental income.
+Google link:
+https://colab.research.google.com/drive/1gpVKD0xYs79PhOsQ5S10O5QzVO3KAHLG?usp=sharing
